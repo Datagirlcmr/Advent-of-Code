@@ -31,7 +31,7 @@ Using Ruby to Solve Algorithms and Data Structures
   <h3 align="center"> 30 Days of Code quizzes</h3>
 
   <p align="center">
-    Ruby enumerables customized version
+    Using the Ruby Programming Language
     <br />
     <a href="https://github.com/Datagirlcmr/Advent-of-Code"><strong>Explore the docs �</strong></a>
     <br />
@@ -45,7 +45,7 @@ Using Ruby to Solve Algorithms and Data Structures
 </p>
 
 # What's this About
-For Prctice Purposes and to enlighten anyone looking for solutions to thee quizzes in Ruby.
+For Practice Purposes and to enlighten anyone looking for solutions to these quizzes in Ruby.
 
 # Validations
 
